@@ -1,6 +1,6 @@
 # Ricardo Monge-Rogel
 
-Researcher in higher education, with a focus on educational technology, psychometrics, and digital learning environments. I design and validate instruments to measure constructs such as technostress, academic self-efficacy, and digital safety, applying reproducible and open science practices.
+Researcher in higher education, with a focus on educational technology, psychometrics, and digital learning environments.
 
 ---
 
